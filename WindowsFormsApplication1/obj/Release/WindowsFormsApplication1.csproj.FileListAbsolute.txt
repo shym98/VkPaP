@@ -22,3 +22,15 @@ C:\Users\shym9\OneDrive\Documents\Visual Studio 2013\Projects\VkP&P\WindowsForms
 C:\Users\shym9\OneDrive\Documents\Visual Studio 2013\Projects\VkP&P\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.ResolveComReference.cache
 C:\Users\shym9\OneDrive\Documents\Visual Studio 2013\Projects\VkP&P\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
 C:\Users\shym9\OneDrive\Documents\Visual Studio 2013\Projects\VkP&P\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\shym9\OneDrive\Documents\Visual Studio 2013\Projects\VkP&P\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\shym9\OneDrive\Documents\Visual Studio 2013\Projects\VkP&P\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\shym9\OneDrive\Documents\Visual Studio 2013\Projects\VkP&P\WindowsFormsApplication1\bin\Release\Newtonsoft.Json.dll
+C:\Users\shym9\OneDrive\Documents\Visual Studio 2013\Projects\VkP&P\WindowsFormsApplication1\bin\Release\Newtonsoft.Json.xml
+C:\Users\shym9\OneDrive\Documents\Visual Studio 2013\Projects\VkP&P\WindowsFormsApplication1\bin\Release\Interop.WMPLib.dll
+C:\Users\shym9\OneDrive\Documents\Visual Studio 2013\Projects\VkP&P\WindowsFormsApplication1\bin\Release\AxInterop.WMPLib.dll
+C:\Users\shym9\OneDrive\Documents\Visual Studio 2013\Projects\VkP&P\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\shym9\OneDrive\Documents\Visual Studio 2013\Projects\VkP&P\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\shym9\OneDrive\Documents\Visual Studio 2013\Projects\VkP&P\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form2.resources
+C:\Users\shym9\OneDrive\Documents\Visual Studio 2013\Projects\VkP&P\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form3.resources
+C:\Users\shym9\OneDrive\Documents\Visual Studio 2013\Projects\VkP&P\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\shym9\OneDrive\Documents\Visual Studio 2013\Projects\VkP&P\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
